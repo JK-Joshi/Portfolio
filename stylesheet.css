@@ -5,6 +5,10 @@
   font-family: "Nunito", sans-serif;
   font-family: "Poppins", sans-serif;
 }
+
+html {
+  scroll-behavior: smooth;
+}
 .conteiner {
   display: grid;
   grid-template-columns: 10vw 40vw 50vw;
